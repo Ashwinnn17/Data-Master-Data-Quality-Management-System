@@ -1,0 +1,7 @@
+product_id,product_name,category,strength
+P001,AMOXICILLIN 500 MG,Antibiotic,500 mg
+P002,METFORMIN 500 MG,Diabetes,500 mg
+P003,ATORVASTATIN 10 MG,,10 mg
+P004,PARACETAMOL 650 MG,Analgesic,650 mg
+P005,OMEPRAZOLE 20 MG,Gastroenterology,20 mg
+P006,CETIRIZINE 10 MG,Allergy,10 mg

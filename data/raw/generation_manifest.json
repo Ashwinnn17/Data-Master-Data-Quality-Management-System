@@ -1,0 +1,75 @@
+{
+  "seed": 20260830,
+  "purpose": "Raw source extracts with intentional data-quality defects for later phases.",
+  "files": {
+    "crm_customers.csv": {
+      "rows": 121,
+      "columns": [
+        "customer_id",
+        "customer_name",
+        "email",
+        "phone",
+        "city",
+        "state",
+        "country",
+        "customer_type"
+      ]
+    },
+    "erp_customers.csv": {
+      "rows": 120,
+      "columns": [
+        "erp_customer_id",
+        "customer_name",
+        "email",
+        "phone",
+        "city",
+        "state",
+        "country",
+        "customer_type"
+      ]
+    },
+    "crm_products.csv": {
+      "rows": 6,
+      "columns": [
+        "product_id",
+        "product_name",
+        "category",
+        "strength"
+      ]
+    },
+    "erp_products.csv": {
+      "rows": 6,
+      "columns": [
+        "erp_product_id",
+        "product_name",
+        "category",
+        "strength"
+      ]
+    },
+    "sales_transactions.csv": {
+      "rows": 500,
+      "columns": [
+        "transaction_id",
+        "customer_id",
+        "customer_name",
+        "product_id",
+        "product_name",
+        "transaction_date",
+        "quantity",
+        "unit_price",
+        "revenue"
+      ]
+    }
+  },
+  "injected_issues": [
+    "missing values",
+    "within-source duplicate",
+    "format variations",
+    "invalid emails and phones",
+    "source-system location conflict",
+    "referential failure",
+    "negative business values",
+    "impossible date",
+    "product spelling variants"
+  ]
+}

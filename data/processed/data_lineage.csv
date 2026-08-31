@@ -1,0 +1,5 @@
+run_id,entity_type,raw_field,transformation,standardized_field,target_table,target_field
+run_20260831T172354Z,customer,customer_name,normalization and entity resolution,name_normalized,master_customer,master_name
+run_20260831T172354Z,customer,email,normalization and entity resolution,email_normalized,master_customer,email
+run_20260831T172354Z,customer,phone,normalization and entity resolution,phone_normalized,master_customer,phone
+run_20260831T172354Z,product,product_name,normalization and entity resolution,product_key,master_product,master_product_name

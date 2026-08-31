@@ -1,0 +1,121 @@
+erp_customer_id,customer_name,email,phone,city,state,country,customer_type
+E0001,Apollo Hospitals Hyderabad Branch 1,contact001@medcore-demo.in,+919810000001,Bangalore,Telangana,India,Provider
+E0002,Sunrise Clinic Bangalore Branch 1,contact002@medcore-demo.in,+919810000002,Bangalore,Karnataka,India,Provider
+E0003,Ishaan Pharmacy Mumbai 003,contact003@medcore-demo.in,+919810000003,Mumbai,Maharashtra,India,Pharmacy
+E0004,Carewell Medical Centre Pune Branch 1,contact004@medcore-demo.in,+919810000004,Pune,Maharashtra,India,Provider
+E0005,Zenith Diagnostics Chennai Branch 1,contactapollo.com,+919810000005,chennai,Tamil Nadu,India,Provider
+E0006,Meera Pharmacy Delhi 006,contact006@medcore-demo.in,+919810000006,Delhi,Delhi,INDIA,Pharmacy
+E0007,Nova Health Distributors Hyderabad Branch 1,contact007@medcore-demo.in, 9810000007,Hyderabad,Telangana,India,Provider
+E0008,Medisource Pharmacy Bangalore Branch 1 Pvt. Ltd.,contact008@medcore-demo.in,+919810000008,Bangalore,Karnataka,India,Provider
+E0009,Aarav Pharmacy Mumbai 009,CONTACT009@MEDCORE-DEMO.IN,+919810000009,Mumbai,Maharashtra,India,Pharmacy
+E0010,Sunrise Clinic Pune Branch 2,contact010@medcore-demo.in,+919810000010,pune,Maharashtra,India,Provider
+E0011,  green valley pharmacy chennai branch 2  ,contact011@medcore-demo.in,+919810000011,Chennai,Tamil Nadu,India,Provider
+E0012,Kavya Pharmacy Delhi 012,contact012@medcore-demo.in,+919810000012,Delhi,Delhi,INDIA,Pharmacy
+E0013,Zenith Diagnostics Hyderabad Branch 2,contact013@medcore-demo.in,12345,Hyderabad,Telangana,India,Provider
+E0014,Lifeline Hospital Bangalore Branch 2,contact014@medcore-demo.in, 9810000014,Bangalore,Karnataka,India,Provider
+E0015,Arjun Pharmacy Mumbai 015,contact015@medcore-demo.in,+919810000015,mumbai,Maharashtra,India,Pharmacy
+E0016,Medisource Pharmacy Pune Branch 2 Pvt. Ltd.,contact016@medcore-demo.in,+919810000016,Pune,Maharashtra,India,Provider
+E0017,Apollo Hospitals Chennai Branch 3,contact017@medcore-demo.in,+919810000017,Chennai,Tamil Nadu,India,Provider
+E0018,Diya Pharmacy Delhi 018,CONTACT018@MEDCORE-DEMO.IN,+919810000018,Delhi,Delhi,INDIA,Pharmacy
+E0019,Green Valley Pharmacy Hyderabad Branch 3,contact019@medcore-demo.in,+919810000019,Hyderabad,Telangana,India,Provider
+E0020,Carewell Medical Centre Bangalore Branch 3,contact020@medcore-demo.in,+919810000020,bangalore,Karnataka,India,Provider
+E0021,Rohan Pharmacy Mumbai 021,contact021@medcore-demo.in, 9810000021,Mumbai,Maharashtra,India,Pharmacy
+E0022,  lifeline hospital pune branch 3  ,,+919810000022,Pune,Maharashtra,India,Provider
+E0023,Nova Health Distributors Chennai Branch 3,contact023@medcore-demo.in,+919810000023,Chennai,Tamil Nadu,India,Provider
+E0024,Nisha Pharmacy Delhi 024 Pvt. Ltd.,contact024@medcore-demo.in,+919810000024,Delhi,Delhi,INDIA,Pharmacy
+E0025,Apollo Hospitals Hyderabad Branch 4,contact025@medcore-demo.in,+919810000025,hyderabad,Telangana,India,Provider
+E0026,Sunrise Clinic Bangalore Branch 4,contact026@medcore-demo.in,+919810000026,Bangalore,Karnataka,India,Provider
+E0027,Ishaan Pharmacy Mumbai 027,CONTACT027@MEDCORE-DEMO.IN,+919810000027,Mumbai,Maharashtra,India,Pharmacy
+E0028,Carewell Medical Centre Pune Branch 4,contact028@medcore-demo.in, 9810000028,Pune,Maharashtra,India,Provider
+E0029,Zenith Diagnostics Chennai Branch 4,contact029@medcore-demo.in,+919810000029,Chennai,Tamil Nadu,India,Provider
+E0030,Meera Pharmacy Delhi 030,contact030@medcore-demo.in,+919810000030,delhi,Delhi,INDIA,Pharmacy
+E0031,Nova Health Distributors Hyderabad Branch 4,contact031@medcore-demo.in,+919810000031,Hyderabad,Telangana,India,Provider
+E0032,Medisource Pharmacy Bangalore Branch 4 Pvt. Ltd.,contact032@medcore-demo.in,+919810000032,Bangalore,Karnataka,India,Provider
+E0033,  aarav pharmacy mumbai 033  ,contact033@medcore-demo.in,+919810000033,Mumbai,,India,Pharmacy
+E0034,Sunrise Clinic Pune Branch 5,contact034@medcore-demo.in,+919810000034,Pune,Maharashtra,India,Provider
+E0035,Green Valley Pharmacy Chennai Branch 5,contact035@medcore-demo.in, 9810000035,chennai,Tamil Nadu,India,Provider
+E0036,Kavya Pharmacy Delhi 036,CONTACT036@MEDCORE-DEMO.IN,+919810000036,Delhi,Delhi,INDIA,Pharmacy
+E0037,Zenith Diagnostics Hyderabad Branch 5,contact037@medcore-demo.in,+919810000037,Hyderabad,Telangana,India,Provider
+E0038,Lifeline Hospital Bangalore Branch 5,contact038@medcore-demo.in,+919810000038,Bangalore,Karnataka,India,Provider
+E0039,Arjun Pharmacy Mumbai 039,contact039@medcore-demo.in,+919810000039,Mumbai,Maharashtra,India,Pharmacy
+E0040,Medisource Pharmacy Pune Branch 5 Pvt. Ltd.,contact040@medcore-demo.in,+919810000040,pune,Maharashtra,India,Provider
+E0041,Apollo Hospitals Chennai Branch 6,contact041@medcore-demo.in,+919810000041,Chennai,Tamil Nadu,India,Provider
+E0042,Diya Pharmacy Delhi 042,contact042@medcore-demo.in, 9810000042,Delhi,Delhi,INDIA,Pharmacy
+E0043,Green Valley Pharmacy Hyderabad Branch 6,contact043@medcore-demo.in,+919810000043,Hyderabad,Telangana,India,Provider
+E0044,  carewell medical centre bangalore branch 6  ,contact044@medcore-demo.in,+919810000044,Bangalore,Karnataka,India,Provider
+E0045,Rohan Pharmacy Mumbai 045,CONTACT045@MEDCORE-DEMO.IN,+919810000045,mumbai,Maharashtra,India,Pharmacy
+E0046,Lifeline Hospital Pune Branch 6,contact046@medcore-demo.in,+919810000046,Pune,Maharashtra,India,Provider
+E0047,Nova Health Distributors Chennai Branch 6,contact047@medcore-demo.in,+919810000047,Chennai,Tamil Nadu,India,Provider
+E0048,Nisha Pharmacy Delhi 048 Pvt. Ltd.,contact048@medcore-demo.in,+919810000048,Delhi,Delhi,INDIA,Pharmacy
+E0049,Apollo Hospitals Hyderabad Branch 7,contact049@medcore-demo.in, 9810000049,Hyderabad,Telangana,India,Provider
+E0050,Sunrise Clinic Bangalore Branch 7,contact050@medcore-demo.in,+919810000050,bangalore,Karnataka,India,Provider
+E0051,Ishaan Pharmacy Mumbai 051,contact051@medcore-demo.in,+919810000051,Mumbai,Maharashtra,India,Pharmacy
+E0052,Carewell Medical Centre Pune Branch 7,contact052@medcore-demo.in,+919810000052,Pune,Maharashtra,India,Provider
+E0053,Zenith Diagnostics Chennai Branch 7,contact053@medcore-demo.in,+919810000053,Chennai,Tamil Nadu,India,Provider
+E0054,Meera Pharmacy Delhi 054,CONTACT054@MEDCORE-DEMO.IN,+919810000054,Delhi,Delhi,INDIA,Pharmacy
+E0055,  nova health distributors hyderabad branch 7  ,contact055@medcore-demo.in,+919810000055,hyderabad,Telangana,India,Provider
+E0056,Medisource Pharmacy Bangalore Branch 7 Pvt. Ltd.,contact056@medcore-demo.in, 9810000056,Bangalore,Karnataka,India,Provider
+E0057,Aarav Pharmacy Mumbai 057,contact057@medcore-demo.in,+919810000057,Mumbai,Maharashtra,India,Pharmacy
+E0058,Sunrise Clinic Pune Branch 8,contact058@medcore-demo.in,+919810000058,Pune,Maharashtra,India,Provider
+E0059,Green Valley Pharmacy Chennai Branch 8,contact059@medcore-demo.in,+919810000059,Chennai,Tamil Nadu,India,Provider
+E0060,Kavya Pharmacy Delhi 060,contact060@medcore-demo.in,+919810000060,delhi,Delhi,INDIA,Pharmacy
+E0061,Zenith Diagnostics Hyderabad Branch 8,contact061@medcore-demo.in,+919810000061,Hyderabad,Telangana,India,Provider
+E0062,Lifeline Hospital Bangalore Branch 8,contact062@medcore-demo.in,+919810000062,Bangalore,Karnataka,India,Provider
+E0063,Arjun Pharmacy Mumbai 063,CONTACT063@MEDCORE-DEMO.IN, 9810000063,Mumbai,Maharashtra,India,Pharmacy
+E0064,Medisource Pharmacy Pune Branch 8 Pvt. Ltd.,contact064@medcore-demo.in,+919810000064,Pune,Maharashtra,India,Provider
+E0065,Apollo Hospitals Chennai Branch 9,contact065@medcore-demo.in,+919810000065,chennai,Tamil Nadu,India,Provider
+E0066,  diya pharmacy delhi 066  ,contact066@medcore-demo.in,+919810000066,Delhi,Delhi,INDIA,Pharmacy
+E0067,Green Valley Pharmacy Hyderabad Branch 9,contact067@medcore-demo.in,+919810000067,Hyderabad,Telangana,India,Provider
+E0068,Carewell Medical Centre Bangalore Branch 9,contact068@medcore-demo.in,+919810000068,Bangalore,Karnataka,India,Provider
+E0069,Rohan Pharmacy Mumbai 069,contact069@medcore-demo.in,+919810000069,Mumbai,Maharashtra,India,Pharmacy
+E0070,Lifeline Hospital Pune Branch 9,contact070@medcore-demo.in, 9810000070,pune,Maharashtra,India,Provider
+E0071,Nova Health Distributors Chennai Branch 9,contact071@medcore-demo.in,+919810000071,Chennai,Tamil Nadu,India,Provider
+E0072,Nisha Pharmacy Delhi 072 Pvt. Ltd.,CONTACT072@MEDCORE-DEMO.IN,+919810000072,Delhi,Delhi,INDIA,Pharmacy
+E0073,Apollo Hospitals Hyderabad Branch 10,contact073@medcore-demo.in,+919810000073,Hyderabad,Telangana,India,Provider
+E0074,Sunrise Clinic Bangalore Branch 10,contact074@medcore-demo.in,+919810000074,Bangalore,Karnataka,India,Provider
+E0075,Ishaan Pharmacy Mumbai 075,contact075@medcore-demo.in,+919810000075,mumbai,Maharashtra,India,Pharmacy
+E0076,Carewell Medical Centre Pune Branch 10,contact076@medcore-demo.in,+919810000076,Pune,Maharashtra,India,Provider
+E0077,  zenith diagnostics chennai branch 10  ,contact077@medcore-demo.in, 9810000077,Chennai,Tamil Nadu,India,Provider
+E0078,Meera Pharmacy Delhi 078,contact078@medcore-demo.in,+919810000078,Delhi,Delhi,INDIA,Pharmacy
+E0079,Nova Health Distributors Hyderabad Branch 10,contact079@medcore-demo.in,+919810000079,Hyderabad,Telangana,India,Provider
+E0080,Medisource Pharmacy Bangalore Branch 10 Pvt. Ltd.,contact080@medcore-demo.in,+919810000080,bangalore,Karnataka,India,Provider
+E0081,Aarav Pharmacy Mumbai 081,CONTACT081@MEDCORE-DEMO.IN,+919810000081,Mumbai,Maharashtra,India,Pharmacy
+E0082,Sunrise Clinic Pune Branch 11,contact082@medcore-demo.in,+919810000082,Pune,Maharashtra,India,Provider
+E0083,Green Valley Pharmacy Chennai Branch 11,contact083@medcore-demo.in,+919810000083,Chennai,Tamil Nadu,India,Provider
+E0084,Kavya Pharmacy Delhi 084,contact084@medcore-demo.in, 9810000084,Delhi,Delhi,INDIA,Pharmacy
+E0085,Zenith Diagnostics Hyderabad Branch 11,contact085@medcore-demo.in,+919810000085,hyderabad,Telangana,India,Provider
+E0086,Lifeline Hospital Bangalore Branch 11,contact086@medcore-demo.in,+919810000086,Bangalore,Karnataka,India,Provider
+E0087,Arjun Pharmacy Mumbai 087,contact087@medcore-demo.in,+919810000087,Mumbai,Maharashtra,India,Pharmacy
+E0088,Medisource Pharmacy Pune Branch 11 Pvt. Ltd.,contact088@medcore-demo.in,+919810000088,Pune,Maharashtra,India,Provider
+E0089,Apollo Hospitals Chennai Branch 12,contact089@medcore-demo.in,+919810000089,Chennai,Tamil Nadu,India,Provider
+E0090,Diya Pharmacy Delhi 090,CONTACT090@MEDCORE-DEMO.IN,+919810000090,delhi,Delhi,INDIA,Pharmacy
+E0091,Green Valley Pharmacy Hyderabad Branch 12,contact091@medcore-demo.in, 9810000091,Hyderabad,Telangana,India,Provider
+E0092,Carewell Medical Centre Bangalore Branch 12,contact092@medcore-demo.in,+919810000092,Bangalore,Karnataka,India,Provider
+E0093,Rohan Pharmacy Mumbai 093,contact093@medcore-demo.in,+919810000093,Mumbai,Maharashtra,India,Pharmacy
+E0094,Lifeline Hospital Pune Branch 12,contact094@medcore-demo.in,+919810000094,Pune,Maharashtra,India,Provider
+E0095,Nova Health Distributors Chennai Branch 12,contact095@medcore-demo.in,+919810000095,chennai,Tamil Nadu,India,Provider
+E0096,Nisha Pharmacy Delhi 096 Pvt. Ltd.,contact096@medcore-demo.in,+919810000096,Delhi,Delhi,INDIA,Pharmacy
+E0097,Apollo Hospitals Hyderabad Branch 13,contact097@medcore-demo.in,+919810000097,Hyderabad,Telangana,India,Provider
+E0098,Sunrise Clinic Bangalore Branch 13,contact098@medcore-demo.in, 9810000098,Bangalore,Karnataka,India,Provider
+E0099,  ishaan pharmacy mumbai 099  ,CONTACT099@MEDCORE-DEMO.IN,+919810000099,Mumbai,Maharashtra,India,Pharmacy
+E0100,Carewell Medical Centre Pune Branch 13,contact100@medcore-demo.in,+919810000100,pune,Maharashtra,India,Provider
+E0101,Zenith Diagnostics Chennai Branch 13,contact101@medcore-demo.in,+919810000101,Chennai,Tamil Nadu,India,Provider
+E0102,Meera Pharmacy Delhi 102,contact102@medcore-demo.in,+919810000102,Delhi,Delhi,INDIA,Pharmacy
+E0103,Nova Health Distributors Hyderabad Branch 13,contact103@medcore-demo.in,+919810000103,Hyderabad,Telangana,India,Provider
+E0104,Medisource Pharmacy Bangalore Branch 13 Pvt. Ltd.,contact104@medcore-demo.in,+919810000104,Bangalore,Karnataka,India,Provider
+E0105,Aarav Pharmacy Mumbai 105,contact105@medcore-demo.in, 9810000105,mumbai,Maharashtra,India,Pharmacy
+E0106,Sunrise Clinic Pune Branch 14,contact106@medcore-demo.in,+919810000106,Pune,Maharashtra,India,Provider
+E0107,Green Valley Pharmacy Chennai Branch 14,contact107@medcore-demo.in,+919810000107,Chennai,Tamil Nadu,India,Provider
+E0108,Kavya Pharmacy Delhi 108,CONTACT108@MEDCORE-DEMO.IN,+919810000108,Delhi,Delhi,INDIA,Pharmacy
+E0109,Zenith Diagnostics Hyderabad Branch 14,contact109@medcore-demo.in,+919810000109,Hyderabad,Telangana,India,Provider
+E0110,  lifeline hospital bangalore branch 14  ,contact110@medcore-demo.in,+919810000110,bangalore,Karnataka,India,Provider
+E0111,Arjun Pharmacy Mumbai 111,contact111@medcore-demo.in,+919810000111,Mumbai,Maharashtra,India,Pharmacy
+E0112,Medisource Pharmacy Pune Branch 14 Pvt. Ltd.,contact112@medcore-demo.in, 9810000112,Pune,Maharashtra,India,Provider
+E0113,Apollo Hospitals Chennai Branch 15,contact113@medcore-demo.in,+919810000113,Chennai,Tamil Nadu,India,Provider
+E0114,Diya Pharmacy Delhi 114,contact114@medcore-demo.in,+919810000114,Delhi,Delhi,INDIA,Pharmacy
+E0115,Green Valley Pharmacy Hyderabad Branch 15,contact115@medcore-demo.in,+919810000115,hyderabad,Telangana,India,Provider
+E0116,Carewell Medical Centre Bangalore Branch 15,contact116@medcore-demo.in,+919810000116,Bangalore,Karnataka,India,Provider
+E0117,Rohan Pharmacy Mumbai 117,CONTACT117@MEDCORE-DEMO.IN,+919810000117,Mumbai,Maharashtra,India,Pharmacy
+E0118,Lifeline Hospital Pune Branch 15,contact118@medcore-demo.in,+919810000118,Pune,Maharashtra,India,Provider
+E0119,Nova Health Distributors Chennai Branch 15,contact119@medcore-demo.in, 9810000119,Chennai,Tamil Nadu,India,Provider
+E0120,Nisha Pharmacy Delhi 120 Pvt. Ltd.,contact120@medcore-demo.in,+919810000120,delhi,Delhi,INDIA,Pharmacy

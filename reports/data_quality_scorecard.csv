@@ -1,0 +1,14 @@
+run_id,dataset,dimension,passed,evaluated,definition,quality_score_pct
+run_20260831T172354Z,crm_customers,completeness,845,847,Required non-null fields,99.76
+run_20260831T172354Z,crm_customers,uniqueness,121,121,Primary-key uniqueness,100.0
+run_20260831T172354Z,erp_customers,completeness,838,840,Required non-null fields,99.76
+run_20260831T172354Z,erp_customers,uniqueness,120,120,Primary-key uniqueness,100.0
+run_20260831T172354Z,crm_products,completeness,17,18,Required non-null fields,94.44
+run_20260831T172354Z,crm_products,uniqueness,6,6,Primary-key uniqueness,100.0
+run_20260831T172354Z,erp_products,completeness,18,18,Required non-null fields,100.0
+run_20260831T172354Z,erp_products,uniqueness,6,6,Primary-key uniqueness,100.0
+run_20260831T172354Z,crm_customers,validity,240,242,Email and phone format,99.17
+run_20260831T172354Z,erp_customers,validity,238,240,Email and phone format,99.17
+run_20260831T172354Z,sales_transactions,validity,1996,2000,Positive values and parseable date,99.8
+run_20260831T172354Z,sales_transactions,referential_integrity,499,500,Sales customer exists in CRM extract,99.8
+run_20260831T172354Z,sales_transactions,consistency,497,500,Revenue = quantity × unit price,99.4

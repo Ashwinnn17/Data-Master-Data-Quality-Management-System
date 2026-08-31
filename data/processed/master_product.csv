@@ -1,0 +1,7 @@
+master_product_id,master_product_name,category,strength
+MP0001,AMOXICILLIN 500 MG,Antibiotic,500 mg
+MP0002,METFORMIN 500 MG,Diabetes,500 mg
+MP0003,ATORVASTATIN 10 MG,Cardiovascular,10 mg
+MP0004,PARACETAMOL 650 MG,Analgesic,650 mg
+MP0005,OMEPRAZOLE 20 MG,Gastroenterology,20 mg
+MP0006,CETIRIZINE 10 MG,Allergy,10 mg
