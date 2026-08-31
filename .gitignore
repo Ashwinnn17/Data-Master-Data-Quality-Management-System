@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.env
+.idea/
+.vscode/settings.json
+*.pbix.lock
